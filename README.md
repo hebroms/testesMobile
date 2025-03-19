@@ -1,6 +1,6 @@
 # Automação de Testes Mobile com Appium e JUnit
 
-Este projeto é uma automação de testes mobile utilizando **Appium** como ferramenta de automação e **JUnit** como framework de testes. A aplicação alvo é identificada pelo pacote `net.nuvem.mobile.carguero.release`.
+Este projeto é uma automação de testes mobile utilizando **Appium** como ferramenta de automação e **JUnit** como framework de testes. A aplicação alvo é identificada pelo pacote `net.nuvem.mobile.release`.
 
 ## 📋 **Pré-requisitos**
 
